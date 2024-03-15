@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(26, 27, 27);
+margin: 0;
+
+
+}
+section nav {
+
+background-color: darkslategrey;
+
+}
+
+
+.navlist  {
+display: flex;
+gap: 30px;
+margin-top:0 ;
+list-style: none;
+
+
+}
+.navlist a{
+    display: inline-block;
+text-decoration: none;
+color: aliceblue;
+font-size: 30px;
+text-align: center;
+
+}
+
+.navlist a:hover{
+background-color: rgb(53, 53, 56);
+}
+
+
+
